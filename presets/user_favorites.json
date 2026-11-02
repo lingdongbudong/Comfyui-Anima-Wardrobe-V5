@@ -1,0 +1,8 @@
+{
+ "_meta": {
+  "schema": "anima-wardrobe-v4/favorites@1",
+  "count": 0,
+  "note": "角色收藏（值域是角色 tag）。上限见引擎常量。"
+ },
+ "favorites": []
+}

@@ -1,0 +1,364 @@
+{
+ "_meta": {
+  "schema": "anima-wardrobe-v4/manual-characters@1",
+  "why": "联网构建覆盖不到的作品，手工补录。build_characters.py 的 render() 会合并本表，所以重跑构建不会丢。tag / trigger 必须是 danbooru 真实写法（姓在前、空格分隔）。",
+  "works": {
+   "persona 5: the phantom x": "女神异闻录：夜幕魅影"
+  },
+  "added_at": "2026-10-31",
+  "source": "用户自建（2026-10-28 联网核实），2026-10-31 姓名顺序改为 danbooru 写法"
+ },
+ "characters": [
+  {
+   "tag": "arai_motoha",
+   "name": "arai motoha",
+   "zh": "荒井萌",
+   "work": "persona 5: the phantom x",
+   "trigger": "arai motoha, persona 5: the phantom x",
+   "pop": 0,
+   "hair": "blonde",
+   "eyes": "blue",
+   "tags": [
+    "1girl",
+    "blonde hair",
+    "short hair",
+    "blue eyes"
+   ],
+   "src": "manual",
+   "thumb": "arai_motoha"
+  },
+  {
+   "tag": "tanemura_riko",
+   "name": "tanemura riko",
+   "zh": "多祢村理子",
+   "work": "persona 5: the phantom x",
+   "trigger": "tanemura riko, persona 5: the phantom x",
+   "pop": 0,
+   "hair": "black",
+   "eyes": "brown",
+   "tags": [
+    "1girl",
+    "black hair",
+    "long hair",
+    "blunt bangs",
+    "brown eyes"
+   ],
+   "src": "manual",
+   "thumb": "tanemura_riko"
+  },
+  {
+   "tag": "kotone_montagne",
+   "name": "kotone_montagne",
+   "zh": "琴音·蒙塔涅",
+   "work": "persona 5: the phantom x",
+   "trigger": "kotone_montagne, persona 5: the phantom x",
+   "pop": 0,
+   "hair": "silver",
+   "eyes": "blue",
+   "tags": [
+    "1girl",
+    "silver hair",
+    "long hair",
+    "braid",
+    "blue eyes"
+   ],
+   "src": "manual",
+   "thumb": "kotone_montagne"
+  },
+  {
+   "tag": "fujikawa_yukimi",
+   "name": "fujikawa yukimi",
+   "zh": "藤川雪实",
+   "work": "persona 5: the phantom x",
+   "trigger": "fujikawa yukimi, persona 5: the phantom x",
+   "pop": 0,
+   "hair": "silver",
+   "eyes": "blue",
+   "tags": [
+    "1girl",
+    "silver hair",
+    "short hair",
+    "blue eyes"
+   ],
+   "src": "manual",
+   "thumb": "fujikawa_yukimi"
+  },
+  {
+   "tag": "noge_tomoko",
+   "name": "noge tomoko",
+   "zh": "野毛朋子",
+   "work": "persona 5: the phantom x",
+   "trigger": "noge tomoko, persona 5: the phantom x",
+   "pop": 0,
+   "hair": "black",
+   "eyes": "grey",
+   "tags": [
+    "1girl",
+    "black hair",
+    "twintails",
+    "glasses",
+    "grey eyes"
+   ],
+   "src": "manual",
+   "thumb": "noge_tomoko"
+  },
+  {
+   "tag": "li_yaoling",
+   "name": "li yaoling",
+   "zh": "李瑶铃",
+   "work": "persona 5: the phantom x",
+   "trigger": "li yaoling, persona 5: the phantom x",
+   "pop": 0,
+   "hair": "black",
+   "eyes": "brown",
+   "tags": [
+    "1girl",
+    "black hair",
+    "twintails",
+    "streaked hair",
+    "brown eyes"
+   ],
+   "src": "manual",
+   "thumb": "li_yaoling"
+  },
+  {
+   "tag": "tomiyama_kayo",
+   "name": "tomiyama kayo",
+   "zh": "富山佳代",
+   "work": "persona 5: the phantom x",
+   "trigger": "tomiyama kayo, persona 5: the phantom x",
+   "pop": 0,
+   "hair": "brown",
+   "eyes": "brown",
+   "tags": [
+    "1girl",
+    "brown hair",
+    "brown eyes",
+    "mole under eye"
+   ],
+   "src": "manual",
+   "thumb": "tomiyama_kayo"
+  },
+  {
+   "tag": "sahara_miyu",
+   "name": "sahara miyu",
+   "zh": "佐原海夕",
+   "work": "persona 5: the phantom x",
+   "trigger": "sahara miyu, persona 5: the phantom x",
+   "pop": 0,
+   "hair": "blue",
+   "eyes": "grey",
+   "tags": [
+    "1girl",
+    "blue hair",
+    "medium hair",
+    "blunt bangs",
+    "grey eyes"
+   ],
+   "src": "manual",
+   "thumb": "sahara_miyu"
+  },
+  {
+   "tag": "nishimori_haruna",
+   "name": "nishimori haruna",
+   "zh": "西森阳菜",
+   "work": "persona 5: the phantom x",
+   "trigger": "nishimori haruna, persona 5: the phantom x",
+   "pop": 0,
+   "hair": "black",
+   "eyes": "brown",
+   "tags": [
+    "1girl",
+    "black hair",
+    "short hair",
+    "brown eyes"
+   ],
+   "src": "manual",
+   "thumb": "nishimori_haruna"
+  },
+  {
+   "tag": "yui_(p5x)",
+   "name": "yui (p5x)",
+   "zh": "松方结",
+   "work": "persona 5: the phantom x",
+   "trigger": "yui (p5x), persona 5: the phantom x",
+   "pop": 0,
+   "hair": "turquoise",
+   "eyes": "blue",
+   "tags": [
+    "1girl",
+    "turquoise hair",
+    "twintails",
+    "drill hair",
+    "blue eyes"
+   ],
+   "src": "manual",
+   "thumb": "yui_p5x"
+  },
+  {
+   "tag": "miyashita_minami",
+   "name": "miyashita minami",
+   "zh": "宫下美波",
+   "work": "persona 5: the phantom x",
+   "trigger": "miyashita minami, persona 5: the phantom x",
+   "pop": 0,
+   "hair": "brown",
+   "eyes": "brown",
+   "tags": [
+    "1girl",
+    "brown hair",
+    "ponytail",
+    "brown eyes"
+   ],
+   "src": "manual",
+   "thumb": "miyashita_minami"
+  },
+  {
+   "tag": "nagao_chizuko",
+   "name": "nagao chizuko",
+   "zh": "长尾千津子",
+   "work": "persona 5: the phantom x",
+   "trigger": "nagao chizuko, persona 5: the phantom x",
+   "pop": 0,
+   "hair": "white",
+   "eyes": "red",
+   "tags": [
+    "1girl",
+    "white hair",
+    "short hair",
+    "red eyes",
+    "elderly"
+   ],
+   "src": "manual",
+   "thumb": "nagao_chizuko"
+  },
+  {
+   "tag": "shiina_yumi",
+   "name": "shiina yumi",
+   "zh": "椎名悠美",
+   "work": "persona 5: the phantom x",
+   "trigger": "shiina yumi, persona 5: the phantom x",
+   "pop": 0,
+   "hair": "blonde",
+   "eyes": "green",
+   "tags": [
+    "1girl",
+    "blonde hair",
+    "short hair",
+    "green eyes"
+   ],
+   "src": "manual",
+   "thumb": "shiina_yumi"
+  },
+  {
+   "tag": "sakai_ayaka",
+   "name": "sakai ayaka",
+   "zh": "坂井绫香",
+   "work": "persona 5: the phantom x",
+   "trigger": "sakai ayaka, persona 5: the phantom x",
+   "pop": 0,
+   "hair": "brown",
+   "eyes": "green",
+   "tags": [
+    "1girl",
+    "brown hair",
+    "green eyes"
+   ],
+   "src": "manual",
+   "thumb": "sakai_ayaka"
+  },
+  {
+   "tag": "dogenzaka_runa",
+   "name": "dogenzaka runa",
+   "zh": "道玄坂琉七",
+   "work": "persona 5: the phantom x",
+   "trigger": "dogenzaka runa, persona 5: the phantom x",
+   "pop": 0,
+   "hair": "beige",
+   "eyes": "green",
+   "tags": [
+    "1girl",
+    "beige hair",
+    "short hair",
+    "bob cut",
+    "green eyes"
+   ],
+   "src": "manual",
+   "thumb": "dogenzaka_runa"
+  },
+  {
+   "tag": "natsukawa_mio",
+   "name": "natsukawa mio",
+   "zh": "夏川澪",
+   "work": "persona 5: the phantom x",
+   "trigger": "natsukawa mio, persona 5: the phantom x",
+   "pop": 0,
+   "hair": "black",
+   "eyes": "blue",
+   "tags": [
+    "1girl",
+    "black hair",
+    "ponytail",
+    "blue eyes",
+    "mole under eye"
+   ],
+   "src": "manual",
+   "thumb": "natsukawa_mio"
+  },
+  {
+   "tag": "hashimoto_mayumi",
+   "name": "hashimoto mayumi",
+   "zh": "桥本麻由美",
+   "work": "persona 5: the phantom x",
+   "trigger": "hashimoto mayumi, persona 5: the phantom x",
+   "pop": 0,
+   "hair": "black",
+   "eyes": "blue",
+   "tags": [
+    "1girl",
+    "black hair",
+    "twintails",
+    "streaked hair",
+    "blue eyes"
+   ],
+   "src": "manual",
+   "thumb": "hashimoto_mayumi"
+  },
+  {
+   "tag": "shikano_ichigo",
+   "name": "shikano ichigo",
+   "zh": "鹿野苺",
+   "work": "persona 5: the phantom x",
+   "trigger": "shikano ichigo, persona 5: the phantom x",
+   "pop": 0,
+   "hair": "blue",
+   "eyes": "blue",
+   "tags": [
+    "1girl",
+    "blue hair",
+    "long hair",
+    "hair ribbon",
+    "blue eyes"
+   ],
+   "src": "manual",
+   "thumb": "shikano_ichigo"
+  },
+  {
+   "tag": "nagao_manaka",
+   "name": "nagao manaka",
+   "zh": "长尾爱歌",
+   "work": "persona 5: the phantom x",
+   "trigger": "nagao manaka, persona 5: the phantom x",
+   "pop": 0,
+   "hair": "black",
+   "eyes": "purple",
+   "tags": [
+    "1girl",
+    "black hair",
+    "purple eyes"
+   ],
+   "src": "manual",
+   "thumb": "nagao_manaka"
+  }
+ ]
+}

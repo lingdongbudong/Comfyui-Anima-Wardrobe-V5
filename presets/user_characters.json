@@ -1,0 +1,10 @@
+{
+ "_meta": {
+  "schema": "anima-wardrobe-v4/user-characters@1",
+  "edits": 0,
+  "custom": 0,
+  "note": "用户角色覆盖层。edits = 对内置角色的字段覆盖（dict）；custom = 自建角色（list）。首次启动时本文件可不存在，引擎会按空覆盖层处理并自动建出结构。"
+ },
+ "edits": {},
+ "custom": []
+}

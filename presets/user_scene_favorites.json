@@ -1,0 +1,8 @@
+{
+ "_meta": {
+  "schema": "anima-wardrobe-v4/scene-favorites@1",
+  "count": 0,
+  "note": "场景收藏（值域是 sc_* 场景 id）。"
+ },
+ "favorites": []
+}
